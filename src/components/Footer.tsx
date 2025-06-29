@@ -20,8 +20,7 @@ const Footer = () => {
               Dhananjani Jayarukshi
             </h3>
             <p className="text-gray-300 leading-relaxed">
-              Software Engineer passionate about creating innovative solutions 
-              and contributing to the tech community through research and development.
+              
             </p>
           </motion.div>
 

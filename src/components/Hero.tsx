@@ -97,7 +97,7 @@ const Hero = () => {
                 <span className="font-semibold text-blue-400">Software Engineer</span> & 
                 <span className="font-semibold text-purple-400"> Data Analyst</span>
                 <br />
-                <span className="text-lg text-gray-400">Specializing in full-stack development, machine learning, and distributed systems</span>
+                <span className="text-lg text-gray-400">Specializing in web development, AI/ML, and distributed systems</span>
               </div>
             </motion.div>
 
@@ -264,7 +264,7 @@ const Hero = () => {
         </div>
 
         {/* Bottom Section - Current Status */}
-        <motion.div
+        {/* <motion.div
           variants={itemVariants}
           className="mt-16 text-center"
         >
@@ -275,7 +275,7 @@ const Hero = () => {
             </div>
             <div className="text-blue-400 font-semibold">NIT Karnataka</div>
           </div>
-        </motion.div>
+        </motion.div> */}
       </motion.div>
     </section>
   );
