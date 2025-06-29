@@ -17,7 +17,7 @@ const Experience = () => {
       current: true,
       icon: Code,
       gradient: 'from-blue-500 to-cyan-600',
-      image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Farpicosupercentre%2F&psig=AOvVaw2ExkCydxpWNESbfjb1gUnm&ust=1751271680641000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDSweCZlo4DFQAAAAAdAAAAABAE',
+      image: '/images/experience/arpico.png'
     },
     {
       title: 'Research Project Intern',
