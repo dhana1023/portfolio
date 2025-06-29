@@ -17,7 +17,7 @@ const Experience = () => {
       current: true,
       icon: Code,
       gradient: 'from-blue-500 to-cyan-600',
-      image: '/images/experience/arpico.png'
+      image: '/images/experience/arpico.jpeg',
     },
     {
       title: 'Research Project Intern',
@@ -31,7 +31,7 @@ const Experience = () => {
       current: false,
       icon: Smartphone,
       gradient: 'from-green-500 to-emerald-600',
-      image: 'https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/images/experience/ewarn.png',
     },
     {
       title: 'Data Analyst Intern',
@@ -45,7 +45,7 @@ const Experience = () => {
       current: false,
       icon: Database,
       gradient: 'from-purple-500 to-violet-600',
-      image: 'https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/images/experience/shapeai.png',
     },
   ];
 

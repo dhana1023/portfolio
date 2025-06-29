@@ -13,7 +13,7 @@ const About = () => {
     {
       icon: Target,
       title: 'Research Impact',
-      description: 'Published research papers in IEEE conferences on accident detection systems and parallel algorithms',
+      description: 'Published research papers in IEEE conferences on accident detection systems and high performance computing',
       color: 'from-blue-500 to-cyan-500',
     },
     {
